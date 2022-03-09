@@ -44,7 +44,6 @@
       </select>
     </div>
   </div>
-  
 </div>
 <br>
 <v-row justify="center">
